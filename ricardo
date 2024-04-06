@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Mi Currículum</title>
+
+<link rel=”stylesheet” href=”styles.css”>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Ricardo Macias</h1>
+
+<h2>Ingeniero</h2>
+
+</header>
+
+<section id=”about”>
+
+<h2>Acerca de mí</h2>
+
+<p>Un curioso estudiante de industrial sin miedo al código HTML</p>
+
+</section>
+
+<section id=”education”>
+
+<h2>Educación</h2>
+
+<ul>
+
+<li>Liceo Bolivariano Rosario Almaza - Bachiller en ciencias (2015)</li>
+
+<li>ingeniería industrial (en proceso...)</li>
+
+</ul>
+
+</section>
+
+<section id=”experience”>
+
+<h2>Experiencia Laboral</h2>
+
+<ul>
+
+<li>Rancho Don Miguel – Mesonero Industrial (13/10/23  - hasta que me canse)</li>
+
+
+</ul>
+
+</section>
+
+<section id=”skills”>
+
+<h2>Habilidades</h2>
+
+<ul>
+
+<li>Disciplina</li>
+
+<li>Tenacidad</li>
+
+<li>mentir en el CV</li>
+
+</ul>
+
+</section>
+
+<footer>
+
+<p>Contacto: maciasperdomoripean@uvm.edu.ve | Teléfono: 04247574230</p>
+
+</footer>
+
+</body>
+
+</html>
